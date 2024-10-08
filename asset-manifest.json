@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/navbar/static/css/main.e634b385.css",
+    "main.js": "/navbar/static/js/main.66e90553.js",
+    "static/js/453.4140a91b.chunk.js": "/navbar/static/js/453.4140a91b.chunk.js",
+    "static/media/foods banner.jpg": "/navbar/static/media/foods banner.64bff0052d67d0d0fc87.jpg",
+    "static/media/insta.png": "/navbar/static/media/insta.4b6f4b6737565fcd17e2.png",
+    "static/media/fb.png": "/navbar/static/media/fb.63ba70b6b292085e1fb5.png",
+    "static/media/lfbro.png": "/navbar/static/media/lfbro.b479df75dd6620f81ba1.png",
+    "static/media/hamburger_icon.png": "/navbar/static/media/hamburger_icon.6284f29e51ead8e55691.png",
+    "index.html": "/navbar/index.html",
+    "main.e634b385.css.map": "/navbar/static/css/main.e634b385.css.map",
+    "main.66e90553.js.map": "/navbar/static/js/main.66e90553.js.map",
+    "453.4140a91b.chunk.js.map": "/navbar/static/js/453.4140a91b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e634b385.css",
+    "static/js/main.66e90553.js"
+  ]
+}
