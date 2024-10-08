@@ -1,0 +1,29 @@
+.banner{
+    color: white;
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 500px;
+    width: 60%;
+    margin: auto;
+    margin-top: 100px;
+    background-image: url(images/foods\ banner.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+button{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+}
+.tpyo{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 2%;
+    width: 40%;
+    text-align: center;
+}
+.main{
+    height: 100vh;
+}
